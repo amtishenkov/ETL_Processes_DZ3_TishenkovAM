@@ -1,0 +1,63 @@
+[2026-02-03T16:22:54.131+0000] {processor.py:161} INFO - Started process (PID=270) to work on /opt/airflow/dags/top5days.py
+[2026-02-03T16:22:54.138+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/top5days.py for tasks to queue
+[2026-02-03T16:22:54.152+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:22:54.151+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/top5days.py
+[2026-02-03T16:22:54.487+0000] {processor.py:840} INFO - DAG(s) 'top5days' retrieved from /opt/airflow/dags/top5days.py
+[2026-02-03T16:22:54.523+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:22:54.523+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-03T16:22:54.534+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:22:54.534+0000] {dag.py:3947} INFO - Setting next_dagrun for top5days to None, run_after=None
+[2026-02-03T16:22:54.552+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/top5days.py took 0.431 seconds
+[2026-02-03T16:23:24.896+0000] {processor.py:161} INFO - Started process (PID=306) to work on /opt/airflow/dags/top5days.py
+[2026-02-03T16:23:24.898+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/top5days.py for tasks to queue
+[2026-02-03T16:23:24.901+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:23:24.901+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/top5days.py
+[2026-02-03T16:23:25.205+0000] {processor.py:840} INFO - DAG(s) 'top5days' retrieved from /opt/airflow/dags/top5days.py
+[2026-02-03T16:23:25.230+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:23:25.230+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-03T16:23:25.247+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:23:25.247+0000] {dag.py:3947} INFO - Setting next_dagrun for top5days to None, run_after=None
+[2026-02-03T16:23:25.267+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/top5days.py took 0.380 seconds
+[2026-02-03T16:23:55.634+0000] {processor.py:161} INFO - Started process (PID=308) to work on /opt/airflow/dags/top5days.py
+[2026-02-03T16:23:55.637+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/top5days.py for tasks to queue
+[2026-02-03T16:23:55.641+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:23:55.640+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/top5days.py
+[2026-02-03T16:23:55.952+0000] {processor.py:840} INFO - DAG(s) 'top5days' retrieved from /opt/airflow/dags/top5days.py
+[2026-02-03T16:23:55.990+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:23:55.989+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-03T16:23:56.002+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:23:56.002+0000] {dag.py:3947} INFO - Setting next_dagrun for top5days to None, run_after=None
+[2026-02-03T16:23:56.168+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/top5days.py took 0.544 seconds
+[2026-02-03T16:24:26.509+0000] {processor.py:161} INFO - Started process (PID=310) to work on /opt/airflow/dags/top5days.py
+[2026-02-03T16:24:26.510+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/top5days.py for tasks to queue
+[2026-02-03T16:24:26.513+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:24:26.513+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/top5days.py
+[2026-02-03T16:24:26.788+0000] {processor.py:840} INFO - DAG(s) 'top5days' retrieved from /opt/airflow/dags/top5days.py
+[2026-02-03T16:24:26.825+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:24:26.824+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-03T16:24:26.843+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:24:26.843+0000] {dag.py:3947} INFO - Setting next_dagrun for top5days to None, run_after=None
+[2026-02-03T16:24:26.873+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/top5days.py took 0.369 seconds
+[2026-02-03T16:24:57.396+0000] {processor.py:161} INFO - Started process (PID=312) to work on /opt/airflow/dags/top5days.py
+[2026-02-03T16:24:57.398+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/top5days.py for tasks to queue
+[2026-02-03T16:24:57.402+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:24:57.401+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/top5days.py
+[2026-02-03T16:24:57.758+0000] {processor.py:840} INFO - DAG(s) 'top5days' retrieved from /opt/airflow/dags/top5days.py
+[2026-02-03T16:24:57.793+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:24:57.792+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-03T16:24:57.809+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:24:57.809+0000] {dag.py:3947} INFO - Setting next_dagrun for top5days to None, run_after=None
+[2026-02-03T16:24:57.833+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/top5days.py took 0.449 seconds
+[2026-02-03T16:25:28.183+0000] {processor.py:161} INFO - Started process (PID=314) to work on /opt/airflow/dags/top5days.py
+[2026-02-03T16:25:28.185+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/top5days.py for tasks to queue
+[2026-02-03T16:25:28.188+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:25:28.188+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/top5days.py
+[2026-02-03T16:25:28.465+0000] {processor.py:840} INFO - DAG(s) 'top5days' retrieved from /opt/airflow/dags/top5days.py
+[2026-02-03T16:25:28.488+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:25:28.488+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-03T16:25:28.499+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:25:28.499+0000] {dag.py:3947} INFO - Setting next_dagrun for top5days to None, run_after=None
+[2026-02-03T16:25:28.519+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/top5days.py took 0.344 seconds
+[2026-02-03T16:25:58.992+0000] {processor.py:161} INFO - Started process (PID=316) to work on /opt/airflow/dags/top5days.py
+[2026-02-03T16:25:58.995+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/top5days.py for tasks to queue
+[2026-02-03T16:25:59.000+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:25:58.999+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/top5days.py
+[2026-02-03T16:25:59.285+0000] {processor.py:840} INFO - DAG(s) 'top5days' retrieved from /opt/airflow/dags/top5days.py
+[2026-02-03T16:25:59.310+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:25:59.310+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-03T16:25:59.323+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:25:59.322+0000] {dag.py:3947} INFO - Setting next_dagrun for top5days to None, run_after=None
+[2026-02-03T16:25:59.349+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/top5days.py took 0.374 seconds
+[2026-02-03T16:26:29.699+0000] {processor.py:161} INFO - Started process (PID=318) to work on /opt/airflow/dags/top5days.py
+[2026-02-03T16:26:29.702+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/top5days.py for tasks to queue
+[2026-02-03T16:26:29.706+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:26:29.705+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/top5days.py
+[2026-02-03T16:26:29.991+0000] {processor.py:840} INFO - DAG(s) 'top5days' retrieved from /opt/airflow/dags/top5days.py
+[2026-02-03T16:26:30.015+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:26:30.014+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-03T16:26:30.028+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:26:30.027+0000] {dag.py:3947} INFO - Setting next_dagrun for top5days to None, run_after=None
+[2026-02-03T16:26:30.053+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/top5days.py took 0.365 seconds
+[2026-02-03T16:27:00.432+0000] {processor.py:161} INFO - Started process (PID=320) to work on /opt/airflow/dags/top5days.py
+[2026-02-03T16:27:00.435+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/top5days.py for tasks to queue
+[2026-02-03T16:27:00.437+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:27:00.436+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/top5days.py
+[2026-02-03T16:27:00.808+0000] {processor.py:840} INFO - DAG(s) 'top5days' retrieved from /opt/airflow/dags/top5days.py
+[2026-02-03T16:27:00.839+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:27:00.839+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-03T16:27:00.852+0000] {logging_mixin.py:188} INFO - [2026-02-03T16:27:00.852+0000] {dag.py:3947} INFO - Setting next_dagrun for top5days to None, run_after=None
+[2026-02-03T16:27:01.001+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/top5days.py took 0.575 seconds
